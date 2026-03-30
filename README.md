@@ -1,4 +1,3 @@
-# Fundamentals-of-AI-ML-Project
 # AI Study Planner
 
 ## Overview of the Project
